@@ -8,10 +8,10 @@ That should install pytorch and torchvision, then run
 `python super_resolve.py --input_image ./data/joshua-in.jpg --model model_epoch_500.pth --output_filename ./result/joshua-out.png`
 
 ## Input
-![alt text](./data/joshua-in.jpg "Joshua Low Res")
+![alt text](https://github.com/dendisuhubdy/super_resolution/blob/master/dataset/joshua-in.jpg "Joshua Low Res")
 
 ## Result
-![alt text](./result/joshua-super.jpg "Joshua Hig Res")
+![alt text](https://github.com/dendisuhubdy/super_resolution/blob/master/results/joshua-super.png "Joshua Hig Res")
 
 
 # Superresolution using an efficient sub-pixel convolutional neural network
